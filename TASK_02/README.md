@@ -5,10 +5,12 @@ Social Media Sentiment Analysis using NLP (LinkedIn App Reviews)
 This project performs sentiment analysis on user reviews of the LinkedIn mobile application using Natural Language Processing (NLP) techniques. The dataset was sourced from Kaggle: [LinkedIn Labelled Dataset](https://www.kaggle.com/datasets/anishamedpalliwar/linkedin-labelled-dataset). The analysis includes preprocessing user-generated text, extracting sentiment scores, and visualizing trends over time to understand public perception.
 
 ## Folder Structure
-- **LinkedIn_Sentiment_Analysis/**
-  - **linkedin_reviews.csv.zip**: Raw dataset downloaded from [Kaggle](https://www.kaggle.com/datasets/anishamedpalliwar/linkedin-labelled-dataset).
+- **DATASET**
+  - **LINKEDIN_REVIEWS.csv.zip**: Raw dataset downloaded from [Kaggle](https://www.kaggle.com/datasets/bwandowando/320k-linkedin-app-google-store-reviews).
+  - **linkedin_reviews_with_sentiment**: Cleaned file using NLP
+- **Notebook**
   - **sentiment_analysis_colab.ipynb**: Google Colab notebook for performing the entire analysis and visualizations.
-  - **outputs/**: Contains result visualizations and plots.
+- **outputs/**: Contains result visualizations and plots.
     - **sentiment_distribution.png**: Distribution of sentiment classes (positive, neutral, negative).
     - **wordcloud_positive.png**: Word cloud of most frequent words in positive reviews.
     - **wordcloud_negative.png**: Word cloud of most frequent words in negative reviews.
@@ -38,9 +40,8 @@ This project performs sentiment analysis on user reviews of the LinkedIn mobile 
 - Google Colab
 - Python
 - Pandas
-- NLTK
 - TextBlob
 - Matplotlib & Seaborn
 - WordCloud
-- Dataset Source: [Kaggle - LinkedIn Labelled Dataset](https://www.kaggle.com/datasets/anishamedpalliwar/linkedin-labelled-dataset)
+- Dataset Source: [Kaggle - LinkedIn Labelled Dataset](https://www.kaggle.com/datasets/bwandowando/320k-linkedin-app-google-store-reviews)
 
