@@ -2,7 +2,7 @@
 Social Media Sentiment Analysis using NLP (LinkedIn App Reviews)
 
 ## Overview
-This project performs sentiment analysis on user reviews of the LinkedIn mobile application using Natural Language Processing (NLP) techniques. The dataset was sourced from Kaggle: [LinkedIn Labelled Dataset](https://www.kaggle.com/datasets/anishamedpalliwar/linkedin-labelled-dataset). The analysis includes preprocessing user-generated text, extracting sentiment scores, and visualizing trends over time to understand public perception.
+This project performs sentiment analysis on user reviews of the LinkedIn mobile application using Natural Language Processing (NLP) techniques. The dataset was sourced from Kaggle: [LinkedIn App Google Store Reviews](https://www.kaggle.com/datasets/bwandowando/320k-linkedin-app-google-store-reviews). The analysis includes preprocessing user-generated text, extracting sentiment scores, and visualizing trends over time to understand public perception.
 
 ## Folder Structure
 - **DATASET**
@@ -43,5 +43,5 @@ This project performs sentiment analysis on user reviews of the LinkedIn mobile 
 - TextBlob
 - Matplotlib & Seaborn
 - WordCloud
-- Dataset Source: [Kaggle - LinkedIn Labelled Dataset](https://www.kaggle.com/datasets/bwandowando/320k-linkedin-app-google-store-reviews)
+- Dataset Source: [Kaggle - LinkedIn App Google Store Reviews](https://www.kaggle.com/datasets/bwandowando/320k-linkedin-app-google-store-reviews)
 
