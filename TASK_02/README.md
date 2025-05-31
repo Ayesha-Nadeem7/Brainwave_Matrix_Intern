@@ -13,7 +13,7 @@ This project performs sentiment analysis on user reviews of the LinkedIn mobile 
 - **outputs/**: Contains result visualizations and plots.
     - **sentiment_distribution.png**: Distribution of sentiment classes (positive, neutral, negative).
     - **wordcloud_positive.png**: Word cloud of most frequent words in positive reviews.
-    - **wordcloud_negative.png**: Word cloud of most frequent words in negative reviews.
+    - **sentiment_composition_piechart.png**: Pie chart of sentiment distribution.
     - **monthly_sentiment_trend.png**: Line plot showing sentiment trend over time.
     - **rating_vs_sentiment.png**: Bar plot comparing user ratings with extracted sentiment scores.
 
